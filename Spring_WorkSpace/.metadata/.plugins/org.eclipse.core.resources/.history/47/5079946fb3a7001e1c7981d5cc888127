@@ -1,0 +1,5 @@
+package in.com.rays.dao;
+
+public @interface Repositry {
+
+}

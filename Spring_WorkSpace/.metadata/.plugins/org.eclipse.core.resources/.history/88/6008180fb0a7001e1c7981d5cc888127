@@ -1,0 +1,5 @@
+package in.com.rays.lifeCycle;
+
+public class TestMyBeanAnnotation {
+
+}

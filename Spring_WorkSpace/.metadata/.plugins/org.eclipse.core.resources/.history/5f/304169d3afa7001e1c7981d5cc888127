@@ -1,0 +1,12 @@
+package in.com.rays.lifeCycle;
+
+import javax.annotation.PostConstruct;
+
+public class MyBeanAnnotation {
+
+	
+	@PostConstruct
+	public void init () {
+		System.out.println("init method ");
+	}
+}
